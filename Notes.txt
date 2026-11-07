@@ -1,0 +1,37 @@
+BOARDS - TRACK WORK
+PIPELINES - BUILD & DEPLOY
+REPOS - CLOUD BASE SOURCE CONTROL
+TEST PLAN - TEST APPS   
+
+----------------------------------------
+
+INTEGERATION AND EXTENTION:
+
+Slack, Trello, Github, Campfire
+
+Can we deploy on prem - Server / Services
+Was called Visual Studio Team Services
+
+---------------------------------
+
+
+Youtube :
+
+Type 1 : BARE METAL : Used by cloud providers and enterprise servers.
+
+Hypervisor ? 
+A hypervisor (also known as a virtual machine monitor or VMM) is a software, firmware, or hardware layer that creates, runs, and manages virtual machines (VMs). 
+
+Infrastructure as a Service (IaaS) ?
+
+IaaS offers on-demand access to computing resources such as servers, storage, and networks. It’s built on virtualization, which turns physical hardware into flexible resources that can scale up or down as needed. With IaaS, you manage the operating systems, applications, and data, while the provider manages the physical infrastructure. This setup gives you the most control and flexibility, making it easy to build and scale your IT environment just the way you want.
+Containers as a Service (CaaS) is an extension of IaaS designed for deploying and managing containerized applications. Containers package applications and their dependencies together, making them portable and consistent across environments. CaaS lets teams focus on building apps while the provider takes care of the infrastructure and organization behind the scenes.
+
+Platform as a Service (PaaS) ?
+PaaS provides a ready-to-use environment for building, testing, and deploying applications. You get to concentrate on writing code and managing data, while the provider handles all the infrastructure and runtime details. It’s a streamlined way for developers to speed up delivery and cut down on complexity.
+
+Software as a Service (SaaS) ?
+SaaS delivers fully developed applications over the internet—no setup required. The provider manages updates, security, and all the technical details, so you just log in and get to work. It’s the simplest model, offering convenience and cost savings without the hassle of managing systems yourself.
+
+Azure : Cloud Computing platform - allows to build, deploy and manage application using cloud Service
+
