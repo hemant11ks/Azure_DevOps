@@ -35,3 +35,26 @@ SaaS delivers fully developed applications over the internet—no setup required
 
 Azure : Cloud Computing platform - allows to build, deploy and manage application using cloud Service
 
+-------------------------------------------------------------------------------------------------------
+
+Azure Board :
+
+Story : a specific way of defining a task or desired software feature
+
+1. Work Items 
+2. BOARDS
+3. Backlogs
+4. Sprints 
+5. Dashboards
+
+--------------------------------------------------------------------------------------------------------
+
+Board with the Work Process :
+
+1. Basic
+2. Agile 
+3. Scrum
+4. Capability Maturity Model Integration
+
+---------------------------------------------------------------------------------------------------------
+
