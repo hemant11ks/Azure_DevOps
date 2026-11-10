@@ -58,3 +58,12 @@ Board with the Work Process :
 
 ---------------------------------------------------------------------------------------------------------
 
+Sprint : Short, time-boxed period when a team completes a planned amount of work
+
+---------------------------------------------------------------------------------------------------------
+
+Code mangement with Azure Repo 101:
+
+Git : Distributed
+TFVC : Team Foundation Version Control (Centralized)
+
